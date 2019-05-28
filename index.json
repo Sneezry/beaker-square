@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "displayName": "Youtube DL",
+      "repository": "Sneezry/youtube-dl.tka",
+      "icon": "youtube-dl.png",
+      "publisher": "Sneezry",
+      "release": "v0.2",
+      "bin": "youtube-dl.tka"
+    }
+  ]
+}
